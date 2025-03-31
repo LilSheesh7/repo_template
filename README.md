@@ -1,5 +1,6 @@
 # The GECO R project template
 
+Hello this are the changes I made.
 This is a github template for a GECO R project repository. This template can
 be loaded when creating a new project in github. As such you pre-populate a
 project with a standard set of directories. This ensures a project-oriented 
